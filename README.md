@@ -34,6 +34,9 @@
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=FFFFFF"/></a>
 </p>
 
+<br>
+<br>
+<br>
 
 <h3 align="center"><b>🛠 Tools 🛠️</b></h3>
 
@@ -48,13 +51,17 @@
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a>
 </p>
-
-<div align="center">
+<br>
+<br>
+<br>
+<!-- <div align="center">
  <h3><b> 🎄 Github Stats 🎄 </b></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=yuxou&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuxou&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
 </div>  
 <br>
-
+<br>
+<br>
+<br>
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxou&langs_count=5&layout=compact)](https://github.com/yuxou/yuxou)
