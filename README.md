@@ -53,6 +53,11 @@
 </p>
 <br>
 <br>
+
+<img src="https://github.com/yuxou/yuxou/blob/output/github-contribution-grid-snake.svg">
+
+</div>
+<br>
 <br>
 <!-- <div align="center">
  <h3><b> 🎄 Github Stats 🎄 </b></h3>
