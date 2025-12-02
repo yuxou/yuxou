@@ -68,7 +68,7 @@
 <br>
 <br>
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxou&langs_count=5&layout=compact)](https://github.com/yuxou/yuxou)
-
+  <a href="https://github.com/yuxou/yuxou">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuxou&langs_count=5&layout=compact" alt="Top Langs" />
+  </a>
 </div>
